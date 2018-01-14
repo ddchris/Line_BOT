@@ -1,0 +1,7 @@
+Django==1.10
+pip==9.0.1
+setuptools==38.4.0
+wheel==0.30.0
+requests==2.11.1
+line-bot-sdk==1.0.0
+gunicorn==19.0.0
